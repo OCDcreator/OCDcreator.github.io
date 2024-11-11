@@ -49,7 +49,12 @@
 <img src="https://OCDcreator.github.io/picx-images-hosting/SGblog/image.6m3x3s3ctq.webp" width="500px">
 
 <p>在内存中的rva是0x01F000，很明显是 .reloc段，在文件中是0x9200</p>
-<img src="https://OCDcreator.github.io/picx-images-hosting/SGblog/image.86to391p18.webp">]]></content>
+<img src="https://OCDcreator.github.io/picx-images-hosting/SGblog/image.86to391p18.webp">
+
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ol>
+<li>CSDN. <a href="https://blog.csdn.net/m0_46125480/article/details/121041940">PE文件之导出表(IMAGE_EXPORT_DIRECTORY)</a></li>
+</ol>
+]]></content>
       <categories>
         <category>逆向工程</category>
       </categories>
